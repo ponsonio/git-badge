@@ -27,6 +27,23 @@ git commit --amend -m "add line 3 and file to ammend"
 
 git remote add origin https://github.com/ponsonio/git-badge.git
 
+
+git push -u origin master
+
+git remote rm  
+
+git branch cat
+
+git branch
+
+git checkout cat
+
+git merge cat
+
+git pull 
+
+git push tag
+
 ```
 
 
