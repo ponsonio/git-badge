@@ -59,6 +59,8 @@ git diff HEAD^^
 
 git diff HEAD~5
 
+git blame cat.txt
+
 ```
 
 
