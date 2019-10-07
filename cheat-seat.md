@@ -7,6 +7,10 @@ git help rebase
 
  git status
 
+ git add --all
+
+ git commit -m "add readme file" 
+
 ```
 
 
