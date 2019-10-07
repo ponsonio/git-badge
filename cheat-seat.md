@@ -19,6 +19,14 @@ git help rebase
 
  git checkout 
 
+git reset --soft HEAD^
+
+git reset --hard HEAD^
+
+git commit --amend -m "add line 3 and file to ammend"
+
+git remote add origin https://github.com/ponsonio/git-badge.git
+
 ```
 
 
