@@ -9,7 +9,13 @@ git help rebase
 
  git add --all
 
+ git add "*.txt"
+
  git commit -m "add readme file" 
+
+ git log
+
+ git diff
 
 ```
 
