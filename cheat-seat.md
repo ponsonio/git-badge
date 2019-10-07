@@ -17,6 +17,8 @@ git help rebase
 
  git diff
 
+ git checkout 
+
 ```
 
 
