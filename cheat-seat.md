@@ -44,6 +44,21 @@ git pull
 
 git push tag
 
+git config --global color.ui true
+
+git log --pretty=oneline
+
+
+git log --oneline -p
+
+git log --oneline -stats
+
+git diff HEAD^
+
+git diff HEAD^^
+
+git diff HEAD~5
+
 ```
 
 
